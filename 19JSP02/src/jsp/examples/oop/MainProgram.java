@@ -9,7 +9,7 @@ package jsp.examples.oop;
  */
 public class MainProgram {
 	public static void main(String args[]) {
-		Dog dog = new Dog("kiki", 3, "dog");
+		Dog dog = new Dog("kiki", 3, "dog111");
 		System.out.println("Name of " + dog.getTypeAnimal() + " : " + dog.getName());
 		System.out.println("Age of " + dog.getTypeAnimal() + " : " + dog.getAge());
 		Tiger tiger = new Tiger("alpha", 4, "tiger");
