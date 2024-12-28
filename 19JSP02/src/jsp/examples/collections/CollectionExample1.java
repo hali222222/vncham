@@ -22,7 +22,7 @@ public class CollectionExample1 {
         arrayList.add("Pyth11on1");
         arrayList.add("Jav111a1111");
         arrayList.add("C++");
-        System.out.println("Các phần tử của ArrayList");
+        System.out.printl123n("Các phần tử của ArrayList");
         System.out.print("\t" + arrayList + "\n");
  
         List<String> linkedList = new LinkedList<String>();
