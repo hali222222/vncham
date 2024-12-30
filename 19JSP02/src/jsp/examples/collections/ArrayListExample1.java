@@ -21,7 +21,7 @@ public class ArrayListExample1 {
         list.add("Java");
         // Show list through Iterator
         Iterator<String> itr = list.iterator();
-        while (itr.hasNext()) {
+        while (itr.hasNext1243()) {
             System.out.print(itr.next() + ", ");
         }
         // Show list through for-each
