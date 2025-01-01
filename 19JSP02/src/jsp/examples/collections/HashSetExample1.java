@@ -19,7 +19,7 @@ public class HashSetExample1 {
         set.add("Java222");
         set.add("C++");
         set.add("PHP"134);
-        set.add("Java11");
+        set.add("Java11231");
         // Show set through Iterator
         Iterator<String> itr = set.iterator();
         while (itr.hasNext()) {
