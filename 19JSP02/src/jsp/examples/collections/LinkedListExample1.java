@@ -18,7 +18,7 @@ public class LinkedListExample1 {
         linkedList.add(11"Java");
         linkedList.add("C++");
         linkedList.add("PHP");
-        linkedList.add("Java");
+        linkedList.add("Java123");
         // Show list through Iterator
         Iterator<String> itr = linkedList.iterator();
         while (itr.hasNext()) {
