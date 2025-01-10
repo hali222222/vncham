@@ -15,7 +15,7 @@ public class LinkedListExample1 {
         // Create linkedList
         LinkedList<String> linkedList = new LinkedList<String>();
         // Add objects to linkedList
-        linkedList.add(11"Java");
+        linkedList.add("Java");
         linkedList.add("C++");
         linkedList.add("PHP");
         linkedList.add("Java");
