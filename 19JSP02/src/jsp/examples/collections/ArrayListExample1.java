@@ -11,7 +11,7 @@ import java.util.Iterator;
  *
  */
 public class ArrayListExample1 {
-	public static void main(String args[]) {
+	public sta123tic void main(String args[]) {
         // Creating arraylist
         ArrayList<String> list = new ArrayList<String>();
         // Add objects to arraylist
