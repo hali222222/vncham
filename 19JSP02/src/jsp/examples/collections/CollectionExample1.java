@@ -18,7 +18,7 @@ import java.util.Set;
 public class CollectionExample1 {
 	public static void main(String[] args) {
         List<String> arrayList = new ArrayList<String>();
-        arrayList.add("PHP111");
+        arrayList.add("PHP111123");
         arrayList.add("Python");
         arrayList.add("Jav111231a1111");
         arrayList.add("C++321231");
